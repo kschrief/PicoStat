@@ -1,1 +1,1 @@
-# picoStat
+# picoStat - A thermomter/hygrometer data source for Adafruit IO running on a Raspberry Pi Pico W
